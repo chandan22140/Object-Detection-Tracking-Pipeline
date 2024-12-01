@@ -71,7 +71,7 @@ Configure feature extraction and model parameters as needed.
 Run the script directly:
 
 ```bash
-python script_name.py
+python main.py
 ```
 
 The pipeline performs the following steps:
